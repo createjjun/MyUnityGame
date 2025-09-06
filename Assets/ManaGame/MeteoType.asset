@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f18ecea5416bcaa40ba49b7825dfcc17, type: 3}
+  m_Name: MeteoType
+  m_EditorClassIdentifier: 
+  meteo:
+  - Size: {fileID: 4080870315052494042, guid: d6ca4dff01c036144a8cbb2ef2015b51, type: 3}
+    Score: 100
+  - Size: {fileID: 6000144417302169090, guid: 048cbbdb81073734899232a5483369fd, type: 3}
+    Score: 60
+  - Size: {fileID: 8149242677477616472, guid: 340c448520d9e5b4f905d6cea006b8e2, type: 3}
+    Score: 30
